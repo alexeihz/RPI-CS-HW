@@ -1,0 +1,5 @@
+word4 = input("Enter a four letter word: ")
+print(word4)
+print("*" * 10)
+print("** " + word4 + " **")
+print("*" * 10)

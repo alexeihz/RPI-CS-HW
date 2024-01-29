@@ -1,0 +1,6 @@
+armed,0.0
+warmed,0.4
+farmed,0.3
+hailing,0.0
+failing,0.1
+ailing,0.1

@@ -1,0 +1,5 @@
+string = input("Enter a word: ")
+print(string)
+print("***" + "*"*len(string) + "***")
+print("** " + string + " **")
+print("***" + "*"*len(string) + "***")

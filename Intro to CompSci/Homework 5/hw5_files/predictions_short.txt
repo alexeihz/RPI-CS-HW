@@ -1,0 +1,5 @@
+Nr.,Date,Group,Side A,Side B,REAL,REAL,Eleven,Eleven,Dustin,Dustin
+1,10-Jun,A,France,Romania,2,1,2,1,1,0
+2,11-Jun,A,Albania,Switzerland,0,1,0,1,0,1
+3,11-Jun,B,Wales,Slovakia,2,1,1,1,0,1
+4,11-Jun,B,England,Russia,1,1,1,1,0,1

@@ -1,0 +1,10 @@
+fileName = input("File ==> ")
+print(fileName)
+file = open(fileName)
+line = file.readline()
+nodes = dict()
+while line != "":
+    lineSplit = line.strip("\n").split(" ")
+    nodes[lineSplit[0]] = set(lineSplit[1:])
+    line = file.readline()
+print(nodes)
