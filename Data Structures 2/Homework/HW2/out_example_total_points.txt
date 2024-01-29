@@ -1,0 +1,5 @@
+ALL GAMES, SORTED BY POINT DIFFERENTIAL:
+Falcons   defeated  Saints    27 - 24  differential =   3  total points =   51
+Saints    defeated  Falcons   17 - 14  differential =   3  total points =   31
+Falcons   lost to   Steelers   9 - 15  differential =   6  total points =   24
+Titans    lost to   Chargers  25 - 33  differential =   8  total points =   58

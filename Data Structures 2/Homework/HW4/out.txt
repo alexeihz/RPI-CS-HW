@@ -1,0 +1,2810 @@
+dartmouth preference list:
+  1. mary_kramer
+  2. harold_chen
+  3. daniel_myers
+  4. bob_evans
+  5. paul_weston
+  6. sally_jones
+  7. ryan_roberts
+  8. elizabeth_kramer
+  9. paul_lee
+  10. elizabeth_weston
+  11. larry_roberts
+  12. alice_grey
+  13. valerie_davis
+
+  14. alice_grey
+  15. larry_roberts
+  16. ryan_roberts
+  17. carol_evans
+  18. ryan_evans
+  19. valerie_davis
+  20. harold_chen
+  21. carol_smith
+
+  22. alice_grey
+  23. harold_chen
+  24. paul_weston
+  25. larry_brewer
+  26. paul_trotter
+  27. ryan_evans
+  28. paul_jones
+  29. elizabeth_kramer
+  30. mary_kramer
+  31. daniel_myers
+  32. bob_evans
+  33. carol_evans
+
+  34. paul_jones
+  35. sally_jones
+  36. harold_chen
+  37. carol_evans
+  38. carol_smith
+  39. elizabeth_weston
+  40. larry_brewer
+  41. ryan_evans
+  42. daniel_myers
+  43. alice_grey
+  44. ryan_roberts
+  45. mary_kramer
+  46. paul_trotter
+
+  47. paul_lee
+  48. larry_brewer
+  49. alice_grey
+  50. carol_evans
+  51. bob_evans
+  52. ryan_evans
+  53. paul_jones
+  54. mary_kramer
+  55. daniel_myers
+  56. paul_weston
+  57. paul_trotter
+  58. elizabeth_weston
+  59. valerie_davis
+  60. larry_roberts
+  61. harold_chen
+
+georgia_tech preference list:
+  1. mary_kramer
+  2. harold_chen
+  3. daniel_myers
+  4. bob_evans
+  5. paul_weston
+  6. sally_jones
+  7. ryan_roberts
+  8. elizabeth_kramer
+  9. paul_lee
+  10. elizabeth_weston
+  11. larry_roberts
+  12. alice_grey
+  13. valerie_davis
+
+  14. alice_grey
+  15. larry_roberts
+  16. ryan_roberts
+  17. carol_evans
+  18. ryan_evans
+  19. valerie_davis
+  20. harold_chen
+  21. carol_smith
+
+  22. alice_grey
+  23. harold_chen
+  24. paul_weston
+  25. larry_brewer
+  26. paul_trotter
+  27. ryan_evans
+  28. paul_jones
+  29. elizabeth_kramer
+  30. mary_kramer
+  31. daniel_myers
+  32. bob_evans
+  33. carol_evans
+
+  34. paul_jones
+  35. sally_jones
+  36. harold_chen
+  37. carol_evans
+  38. carol_smith
+  39. elizabeth_weston
+  40. larry_brewer
+  41. ryan_evans
+  42. daniel_myers
+  43. alice_grey
+  44. ryan_roberts
+  45. mary_kramer
+  46. paul_trotter
+
+  47. paul_lee
+  48. larry_brewer
+  49. alice_grey
+  50. carol_evans
+  51. bob_evans
+  52. ryan_evans
+  53. paul_jones
+  54. mary_kramer
+  55. daniel_myers
+  56. paul_weston
+  57. paul_trotter
+  58. elizabeth_weston
+  59. valerie_davis
+  60. larry_roberts
+  61. harold_chen
+
+university_of_pennsylvania preference list:
+  1. mary_kramer
+  2. harold_chen
+  3. daniel_myers
+  4. bob_evans
+  5. paul_weston
+  6. sally_jones
+  7. ryan_roberts
+  8. elizabeth_kramer
+  9. paul_lee
+  10. elizabeth_weston
+  11. larry_roberts
+  12. alice_grey
+  13. valerie_davis
+
+  14. alice_grey
+  15. larry_roberts
+  16. ryan_roberts
+  17. carol_evans
+  18. ryan_evans
+  19. valerie_davis
+  20. harold_chen
+  21. carol_smith
+
+  22. alice_grey
+  23. harold_chen
+  24. paul_weston
+  25. larry_brewer
+  26. paul_trotter
+  27. ryan_evans
+  28. paul_jones
+  29. elizabeth_kramer
+  30. mary_kramer
+  31. daniel_myers
+  32. bob_evans
+  33. carol_evans
+
+  34. paul_jones
+  35. sally_jones
+  36. harold_chen
+  37. carol_evans
+  38. carol_smith
+  39. elizabeth_weston
+  40. larry_brewer
+  41. ryan_evans
+  42. daniel_myers
+  43. alice_grey
+  44. ryan_roberts
+  45. mary_kramer
+  46. paul_trotter
+
+  47. paul_lee
+  48. larry_brewer
+  49. alice_grey
+  50. carol_evans
+  51. bob_evans
+  52. ryan_evans
+  53. paul_jones
+  54. mary_kramer
+  55. daniel_myers
+  56. paul_weston
+  57. paul_trotter
+  58. elizabeth_weston
+  59. valerie_davis
+  60. larry_roberts
+  61. harold_chen
+
+perdue preference list:
+  1. mary_kramer
+  2. harold_chen
+  3. daniel_myers
+  4. bob_evans
+  5. paul_weston
+  6. sally_jones
+  7. ryan_roberts
+  8. elizabeth_kramer
+  9. paul_lee
+  10. elizabeth_weston
+  11. larry_roberts
+  12. alice_grey
+  13. valerie_davis
+
+  14. alice_grey
+  15. larry_roberts
+  16. ryan_roberts
+  17. carol_evans
+  18. ryan_evans
+  19. valerie_davis
+  20. harold_chen
+  21. carol_smith
+
+  22. alice_grey
+  23. harold_chen
+  24. paul_weston
+  25. larry_brewer
+  26. paul_trotter
+  27. ryan_evans
+  28. paul_jones
+  29. elizabeth_kramer
+  30. mary_kramer
+  31. daniel_myers
+  32. bob_evans
+  33. carol_evans
+
+  34. paul_jones
+  35. sally_jones
+  36. harold_chen
+  37. carol_evans
+  38. carol_smith
+  39. elizabeth_weston
+  40. larry_brewer
+  41. ryan_evans
+  42. daniel_myers
+  43. alice_grey
+  44. ryan_roberts
+  45. mary_kramer
+  46. paul_trotter
+
+  47. paul_lee
+  48. larry_brewer
+  49. alice_grey
+  50. carol_evans
+  51. bob_evans
+  52. ryan_evans
+  53. paul_jones
+  54. mary_kramer
+  55. daniel_myers
+  56. paul_weston
+  57. paul_trotter
+  58. elizabeth_weston
+  59. valerie_davis
+  60. larry_roberts
+  61. harold_chen
+
+university_of_pennsylvania preference list:
+  1. mary_kramer
+  2. harold_chen
+  3. daniel_myers
+  4. bob_evans
+  5. paul_weston
+  6. sally_jones
+  7. ryan_roberts
+  8. elizabeth_kramer
+  9. paul_lee
+  10. elizabeth_weston
+  11. larry_roberts
+  12. alice_grey
+  13. valerie_davis
+
+  14. alice_grey
+  15. larry_roberts
+  16. ryan_roberts
+  17. carol_evans
+  18. ryan_evans
+  19. valerie_davis
+  20. harold_chen
+  21. carol_smith
+
+  22. alice_grey
+  23. harold_chen
+  24. paul_weston
+  25. larry_brewer
+  26. paul_trotter
+  27. ryan_evans
+  28. paul_jones
+  29. elizabeth_kramer
+  30. mary_kramer
+  31. daniel_myers
+  32. bob_evans
+  33. carol_evans
+
+  34. paul_jones
+  35. sally_jones
+  36. harold_chen
+  37. carol_evans
+  38. carol_smith
+  39. elizabeth_weston
+  40. larry_brewer
+  41. ryan_evans
+  42. daniel_myers
+  43. alice_grey
+  44. ryan_roberts
+  45. mary_kramer
+  46. paul_trotter
+
+  47. paul_lee
+  48. larry_brewer
+  49. alice_grey
+  50. carol_evans
+  51. bob_evans
+  52. ryan_evans
+  53. paul_jones
+  54. mary_kramer
+  55. daniel_myers
+  56. paul_weston
+  57. paul_trotter
+  58. elizabeth_weston
+  59. valerie_davis
+  60. larry_roberts
+  61. harold_chen
+
+university_of_washington preference list:
+  1. mary_kramer
+  2. harold_chen
+  3. daniel_myers
+  4. bob_evans
+  5. paul_weston
+  6. sally_jones
+  7. ryan_roberts
+  8. elizabeth_kramer
+  9. paul_lee
+  10. elizabeth_weston
+  11. larry_roberts
+  12. alice_grey
+  13. valerie_davis
+
+  14. alice_grey
+  15. larry_roberts
+  16. ryan_roberts
+  17. carol_evans
+  18. ryan_evans
+  19. valerie_davis
+  20. harold_chen
+  21. carol_smith
+
+  22. alice_grey
+  23. harold_chen
+  24. paul_weston
+  25. larry_brewer
+  26. paul_trotter
+  27. ryan_evans
+  28. paul_jones
+  29. elizabeth_kramer
+  30. mary_kramer
+  31. daniel_myers
+  32. bob_evans
+  33. carol_evans
+
+  34. paul_jones
+  35. sally_jones
+  36. harold_chen
+  37. carol_evans
+  38. carol_smith
+  39. elizabeth_weston
+  40. larry_brewer
+  41. ryan_evans
+  42. daniel_myers
+  43. alice_grey
+  44. ryan_roberts
+  45. mary_kramer
+  46. paul_trotter
+
+  47. paul_lee
+  48. larry_brewer
+  49. alice_grey
+  50. carol_evans
+  51. bob_evans
+  52. ryan_evans
+  53. paul_jones
+  54. mary_kramer
+  55. daniel_myers
+  56. paul_weston
+  57. paul_trotter
+  58. elizabeth_weston
+  59. valerie_davis
+  60. larry_roberts
+  61. harold_chen
+
+harvard preference list:
+  1. mary_kramer
+  2. harold_chen
+  3. daniel_myers
+  4. bob_evans
+  5. paul_weston
+  6. sally_jones
+  7. ryan_roberts
+  8. elizabeth_kramer
+  9. paul_lee
+  10. elizabeth_weston
+  11. larry_roberts
+  12. alice_grey
+  13. valerie_davis
+
+  14. alice_grey
+  15. larry_roberts
+  16. ryan_roberts
+  17. carol_evans
+  18. ryan_evans
+  19. valerie_davis
+  20. harold_chen
+  21. carol_smith
+
+  22. alice_grey
+  23. harold_chen
+  24. paul_weston
+  25. larry_brewer
+  26. paul_trotter
+  27. ryan_evans
+  28. paul_jones
+  29. elizabeth_kramer
+  30. mary_kramer
+  31. daniel_myers
+  32. bob_evans
+  33. carol_evans
+
+  34. paul_jones
+  35. sally_jones
+  36. harold_chen
+  37. carol_evans
+  38. carol_smith
+  39. elizabeth_weston
+  40. larry_brewer
+  41. ryan_evans
+  42. daniel_myers
+  43. alice_grey
+  44. ryan_roberts
+  45. mary_kramer
+  46. paul_trotter
+
+  47. paul_lee
+  48. larry_brewer
+  49. alice_grey
+  50. carol_evans
+  51. bob_evans
+  52. ryan_evans
+  53. paul_jones
+  54. mary_kramer
+  55. daniel_myers
+  56. paul_weston
+  57. paul_trotter
+  58. elizabeth_weston
+  59. valerie_davis
+  60. larry_roberts
+  61. harold_chen
+
+caltech preference list:
+  1. mary_kramer
+  2. harold_chen
+  3. daniel_myers
+  4. bob_evans
+  5. paul_weston
+  6. sally_jones
+  7. ryan_roberts
+  8. elizabeth_kramer
+  9. paul_lee
+  10. elizabeth_weston
+  11. larry_roberts
+  12. alice_grey
+  13. valerie_davis
+
+  14. alice_grey
+  15. larry_roberts
+  16. ryan_roberts
+  17. carol_evans
+  18. ryan_evans
+  19. valerie_davis
+  20. harold_chen
+  21. carol_smith
+
+  22. alice_grey
+  23. harold_chen
+  24. paul_weston
+  25. larry_brewer
+  26. paul_trotter
+  27. ryan_evans
+  28. paul_jones
+  29. elizabeth_kramer
+  30. mary_kramer
+  31. daniel_myers
+  32. bob_evans
+  33. carol_evans
+
+  34. paul_jones
+  35. sally_jones
+  36. harold_chen
+  37. carol_evans
+  38. carol_smith
+  39. elizabeth_weston
+  40. larry_brewer
+  41. ryan_evans
+  42. daniel_myers
+  43. alice_grey
+  44. ryan_roberts
+  45. mary_kramer
+  46. paul_trotter
+
+  47. paul_lee
+  48. larry_brewer
+  49. alice_grey
+  50. carol_evans
+  51. bob_evans
+  52. ryan_evans
+  53. paul_jones
+  54. mary_kramer
+  55. daniel_myers
+  56. paul_weston
+  57. paul_trotter
+  58. elizabeth_weston
+  59. valerie_davis
+  60. larry_roberts
+  61. harold_chen
+
+ryan_roberts preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+mary_kramer preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+elizabeth_weston preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+bob_evans preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+paul_trotter preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+carol_evans preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+larry_roberts preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+paul_weston preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+carol_evans preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+sally_jones preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+carol_smith preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+elizabeth_kramer preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+daniel_myers preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+alice_grey preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+ryan_evans preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+paul_lee preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+paul_jones preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+valerie_davis preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+harold_chen preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+larry_brewer preference list:
+  1. harvard
+  2. georgia_tech
+  3. university_of_washington
+  4. university_of_pennsylvania
+  5. perdue
+  6. dartmouth
+
+  7. university_of_pennsylvania
+  8. georgia_tech
+  9. dartmouth
+  10. caltech
+  11. perdue
+  12. harvard
+
+  13. university_of_pennsylvania
+  14. caltech
+  15. dartmouth
+  16. perdue
+  17. university_of_washington
+  18. harvard
+
+  19. perdue
+  20. university_of_washington
+  21. caltech
+  22. harvard
+  23. dartmouth
+  24. georgia_tech
+  25. university_of_pennsylvania
+
+  26. university_of_pennsylvania
+  27. harvard
+  28. university_of_washington
+  29. dartmouth
+  30. perdue
+
+  31. university_of_washington
+  32. georgia_tech
+  33. university_of_pennsylvania
+
+  34. university_of_pennsylvania
+  35. university_of_washington
+  36. dartmouth
+  37. harvard
+
+  38. caltech
+  39. harvard
+  40. dartmouth
+  41. perdue
+  42. university_of_washington
+  43. georgia_tech
+
+  44. harvard
+  45. university_of_washington
+  46. university_of_pennsylvania
+  47. georgia_tech
+
+  48. perdue
+  49. university_of_pennsylvania
+  50. caltech
+  51. dartmouth
+
+  52. harvard
+  53. dartmouth
+  54. university_of_pennsylvania
+  55. university_of_washington
+  56. georgia_tech
+  57. caltech
+
+  58. university_of_washington
+  59. harvard
+  60. university_of_pennsylvania
+  61. perdue
+  62. dartmouth
+  63. caltech
+
+  64. perdue
+  65. caltech
+  66. university_of_pennsylvania
+  67. university_of_washington
+  68. harvard
+
+  69. university_of_pennsylvania
+  70. university_of_washington
+  71. caltech
+
+  72. dartmouth
+  73. georgia_tech
+  74. university_of_pennsylvania
+  75. perdue
+  76. university_of_washington
+  77. caltech
+  78. harvard
+
+  79. university_of_washington
+  80. dartmouth
+  81. harvard
+
+  82. dartmouth
+  83. university_of_washington
+  84. georgia_tech
+  85. university_of_pennsylvania
+  86. caltech
+
+---- ROUND 1 ----
+dartmouth makes an offer to mary_kramer
+georgia_tech makes an offer to alice_grey
+  alice_grey declines offer from georgia_tech
+university_of_pennsylvania makes an offer to alice_grey
+  alice_grey tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to paul_jones
+  paul_jones tentatively accepts offer from university_of_washington
+harvard makes an offer to paul_lee
+---- ROUND 2 ----
+dartmouth makes an offer to harold_chen
+  harold_chen tentatively accepts offer from dartmouth
+georgia_tech makes an offer to larry_roberts
+  larry_roberts tentatively accepts offer from georgia_tech
+university_of_pennsylvania makes an offer to harold_chen
+  harold_chen declines offer from university_of_pennsylvania
+university_of_washington makes an offer to sally_jones
+  sally_jones tentatively accepts offer from university_of_washington
+harvard makes an offer to larry_brewer
+  larry_brewer declines offer from harvard
+---- ROUND 3 ----
+dartmouth makes an offer to daniel_myers
+  daniel_myers tentatively accepts offer from dartmouth
+georgia_tech makes an offer to ryan_roberts
+  ryan_roberts tentatively accepts offer from georgia_tech
+university_of_pennsylvania makes an offer to paul_weston
+  paul_weston tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to harold_chen
+  harold_chen withdraws tentative acceptance of offer from dartmouth
+  harold_chen tentatively accepts offer from university_of_washington
+harvard makes an offer to alice_grey
+  alice_grey withdraws tentative acceptance of offer from university_of_pennsylvania
+  alice_grey tentatively accepts offer from harvard
+---- ROUND 4 ----
+dartmouth makes an offer to bob_evans
+  bob_evans tentatively accepts offer from dartmouth
+georgia_tech makes an offer to carol_evans
+  carol_evans declines offer from georgia_tech
+university_of_pennsylvania makes an offer to larry_brewer
+  larry_brewer tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to carol_evans
+  carol_evans tentatively accepts offer from university_of_washington
+harvard makes an offer to carol_evans
+  carol_evans withdraws tentative acceptance of offer from university_of_washington
+  carol_evans tentatively accepts offer from harvard
+---- ROUND 5 ----
+dartmouth makes an offer to paul_weston
+  paul_weston declines offer from dartmouth
+georgia_tech makes an offer to ryan_evans
+  ryan_evans declines offer from georgia_tech
+university_of_pennsylvania makes an offer to paul_trotter
+  paul_trotter tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to carol_smith
+  carol_smith tentatively accepts offer from university_of_washington
+harvard makes an offer to bob_evans
+  bob_evans declines offer from harvard
+---- ROUND 6 ----
+dartmouth makes an offer to sally_jones
+  sally_jones withdraws tentative acceptance of offer from university_of_washington
+  sally_jones tentatively accepts offer from dartmouth
+georgia_tech makes an offer to valerie_davis
+  valerie_davis tentatively accepts offer from georgia_tech
+university_of_pennsylvania makes an offer to ryan_evans
+  ryan_evans tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to elizabeth_weston
+  elizabeth_weston declines offer from university_of_washington
+harvard makes an offer to ryan_evans
+  ryan_evans declines offer from harvard
+---- ROUND 7 ----
+dartmouth makes an offer to ryan_roberts
+  ryan_roberts declines offer from dartmouth
+georgia_tech makes an offer to harold_chen
+  harold_chen declines offer from georgia_tech
+university_of_pennsylvania makes an offer to paul_jones
+  paul_jones withdraws tentative acceptance of offer from university_of_washington
+  paul_jones tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to larry_brewer
+  larry_brewer withdraws tentative acceptance of offer from university_of_pennsylvania
+  larry_brewer tentatively accepts offer from university_of_washington
+harvard makes an offer to paul_jones
+  paul_jones declines offer from harvard
+---- ROUND 8 ----
+dartmouth makes an offer to elizabeth_kramer
+  elizabeth_kramer tentatively accepts offer from dartmouth
+georgia_tech makes an offer to carol_smith
+  carol_smith declines offer from georgia_tech
+university_of_pennsylvania makes an offer to elizabeth_kramer
+  elizabeth_kramer withdraws tentative acceptance of offer from dartmouth
+  elizabeth_kramer tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to ryan_evans
+  ryan_evans declines offer from university_of_washington
+harvard makes an offer to mary_kramer
+---- ROUND 9 ----
+dartmouth makes an offer to paul_lee
+university_of_pennsylvania makes an offer to mary_kramer
+university_of_washington makes an offer to daniel_myers
+  daniel_myers declines offer from university_of_washington
+harvard makes an offer to daniel_myers
+  daniel_myers withdraws tentative acceptance of offer from dartmouth
+  daniel_myers tentatively accepts offer from harvard
+---- ROUND 10 ----
+dartmouth makes an offer to elizabeth_weston
+  elizabeth_weston tentatively accepts offer from dartmouth
+university_of_pennsylvania makes an offer to daniel_myers
+  daniel_myers declines offer from university_of_pennsylvania
+university_of_washington makes an offer to alice_grey
+  alice_grey withdraws tentative acceptance of offer from harvard
+  alice_grey tentatively accepts offer from university_of_washington
+harvard makes an offer to paul_weston
+  paul_weston declines offer from harvard
+---- ROUND 11 ----
+dartmouth makes an offer to larry_roberts
+  larry_roberts declines offer from dartmouth
+university_of_pennsylvania makes an offer to bob_evans
+  bob_evans withdraws tentative acceptance of offer from dartmouth
+  bob_evans tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to ryan_roberts
+  ryan_roberts declines offer from university_of_washington
+harvard makes an offer to paul_trotter
+  paul_trotter withdraws tentative acceptance of offer from university_of_pennsylvania
+  paul_trotter tentatively accepts offer from harvard
+---- ROUND 12 ----
+dartmouth makes an offer to alice_grey
+  alice_grey declines offer from dartmouth
+university_of_pennsylvania makes an offer to carol_evans
+  carol_evans withdraws tentative acceptance of offer from harvard
+  carol_evans tentatively accepts offer from university_of_pennsylvania
+university_of_washington makes an offer to mary_kramer
+harvard makes an offer to elizabeth_weston
+  elizabeth_weston declines offer from harvard
+---- ROUND 13 ----
+dartmouth makes an offer to valerie_davis
+  valerie_davis withdraws tentative acceptance of offer from georgia_tech
+  valerie_davis tentatively accepts offer from dartmouth
+university_of_washington makes an offer to paul_trotter
+  paul_trotter withdraws tentative acceptance of offer from harvard
+  paul_trotter tentatively accepts offer from university_of_washington
+harvard makes an offer to valerie_davis
+  valerie_davis declines offer from harvard
+---- ROUND 14 ----
+harvard makes an offer to larry_roberts
+  larry_roberts declines offer from harvard
+---- ROUND 15 ----
+harvard makes an offer to harold_chen
+  harold_chen declines offer from harvard
+---- ROUND 16 ----
+no offers_made this round
+
+student(s) who will be attending dartmouth:
+  elizabeth_weston
+  sally_jones
+  valerie_davis
+  [6 remaining slot(s) in enrollment]
+student(s) who will be attending georgia_tech:
+  larry_roberts
+  ryan_roberts
+  [6 remaining slot(s) in enrollment]
+student(s) who will be attending harvard:
+  daniel_myers
+  [5 remaining slot(s) in enrollment]
+student(s) who will be attending university_of_pennsylvania:
+  bob_evans
+  carol_evans
+  elizabeth_kramer
+  paul_jones
+  paul_weston
+  ryan_evans
+  [4 remaining slot(s) in enrollment]
+student(s) who will be attending university_of_washington:
+  alice_grey
+  carol_smith
+  harold_chen
+  larry_brewer
+  paul_trotter
+  [3 remaining slot(s) in enrollment]
+
+alice_grey will be attending university_of_washington
+bob_evans will be attending university_of_pennsylvania
+carol_evans will be attending university_of_pennsylvania
+carol_smith will be attending university_of_washington
+daniel_myers will be attending harvard
+elizabeth_kramer will be attending university_of_pennsylvania
+elizabeth_weston will be attending dartmouth
+harold_chen will be attending university_of_washington
+larry_brewer will be attending university_of_washington
+larry_roberts will be attending georgia_tech
+paul_jones will be attending university_of_pennsylvania
+paul_trotter will be attending university_of_washington
+paul_weston will be attending university_of_pennsylvania
+ryan_evans will be attending university_of_pennsylvania
+ryan_roberts will be attending georgia_tech
+sally_jones will be attending dartmouth
+valerie_davis will be attending dartmouth
+

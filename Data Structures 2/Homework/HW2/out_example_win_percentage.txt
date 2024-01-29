@@ -1,0 +1,6 @@
+ALL TEAMS, SORTED BY WIN PERCENTAGE:
+Chargers   1 win(s) -  0 loss(es)  1.00
+Steelers   1 win(s) -  0 loss(es)  1.00
+Saints     1 win(s) -  1 loss(es)  0.50
+Falcons    1 win(s) -  2 loss(es)  0.33
+Titans     0 win(s) -  1 loss(es)  0.00

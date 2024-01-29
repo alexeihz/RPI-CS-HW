@@ -1,0 +1,32 @@
+ALL GAMES, SORTED BY POINT DIFFERENTIAL:
+Lions    lost to   Packers  26 - 28  differential =   2  total points =   54
+Packers  lost to   Bears    17 - 20  differential =   3  total points =   37
+Vikings  lost to   Packers  24 - 28  differential =   4  total points =   52
+Bears    defeated  Lions    24 - 20  differential =   4  total points =   44
+Packers  lost to   Lions     3 -  7  differential =   4  total points =   10
+Lions    lost to   Bears    14 - 19  differential =   5  total points =   33
+Vikings  lost to   Lions    13 - 20  differential =   7  total points =   33
+Bears    lost to   Packers   3 - 10  differential =   7  total points =   13
+Vikings  lost to   Bears    13 - 27  differential =  14  total points =   40
+Lions    lost to   Vikings  10 - 24  differential =  14  total points =   34
+Bears    defeated  Vikings  40 - 14  differential =  26  total points =   54
+Packers  defeated  Vikings  31 -  3  differential =  28  total points =   34
+
+ALL TEAMS, SORTED BY WIN PERCENTAGE:
+Bears     5 win(s) -  1 loss(es)  0.83
+Packers   4 win(s) -  2 loss(es)  0.67
+Lions     2 win(s) -  4 loss(es)  0.33
+Vikings   1 win(s) -  5 loss(es)  0.17
+
+BIGGEST WINNER ON A DAY, SORTED BY DATE
+Biggest winner on Sunday September  12 2010 : Bears   - 19
+Biggest winner on Sunday September  26 2010 : Vikings - 24
+Biggest winner on Monday September  27 2010 : Bears   - 20
+Biggest winner on Sunday October     3 2010 : Packers - 28
+Biggest winner on Sunday October    24 2010 : Packers - 28
+Biggest winner on Sunday November   14 2010 : Bears   - 27
+Biggest winner on Sunday November   21 2010 : Packers - 31
+Biggest winner on Sunday December    5 2010 : Bears   - 24
+Biggest winner on Sunday December   12 2010 : Lions   -  7
+Biggest winner on Monday December   20 2010 : Bears   - 40
+Biggest winner on Sunday January     2 2011 : Lions   - 20
